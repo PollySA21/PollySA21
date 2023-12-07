@@ -2,7 +2,7 @@ import io
 import streamlit as st
 from PIL import Image
 import numpy as np
-from tensorflow.keras.applications import EfficientNetB0
+
 
 
 def load_image():
